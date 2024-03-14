@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553524758441",
+    "project_id": "rejoice-8157a",
+    "storage_bucket": "rejoice-8157a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553524758441:android:3031c2f71d8747f6d3e6b8",
+        "android_client_info": {
+          "package_name": "com.sreshtgeeth.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553524758441-n20cupprreojrlo6g9s1gof2s0959s79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkkrEcsmn91tezViJf_uwk684Rfoir36A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553524758441-n20cupprreojrlo6g9s1gof2s0959s79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
